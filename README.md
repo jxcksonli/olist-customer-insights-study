@@ -1,5 +1,5 @@
 # olist-customer-insights-study
-An analysis of customer behavior, segmentation, and retention patterns using the Olist e-commerce dataset
+An analysis of customer behavior, segmentation, and retention patterns using the Olist Brazillian e-commerce dataset
 
 - RFM Segmentation, CLV, Cohort Analysis for Retention
 
