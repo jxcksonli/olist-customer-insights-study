@@ -5,6 +5,9 @@ A deep-dive into customer behavior, segmentation, and retention patterns using t
 ## About Olist
 Olist is a Brazilian e-commerce platform that connects small businesses to major marketplaces. This dataset covers ~100k orders placed between 2016–2018 across multiple Brazilian states, including data on orders, payments, reviews, products, sellers, and customer geolocation.
 
+## Tableau Dashboard 
+An interactive Tableau dashboard that accompanies this analysis can be found [here](LINK).
+
 ## Dataset Notes
 - An order may have multiple items
 - All store and partner names have been anonymised and replaced with Game of Thrones house names
