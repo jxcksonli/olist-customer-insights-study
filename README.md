@@ -1,11 +1,14 @@
 # olist-customer-insights-study
-An analysis of customer behavior, segmentation, and retention patterns using the Olist Brazillian e-commerce dataset
 
-- RFM Segmentation, CLV, Cohort Analysis for Retention
+A deep-dive into customer behavior, segmentation, and retention patterns using the [Olist](https://olist.com/) Brazilian e-commerce dataset, sourced from [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 
+## About Olist
+Olist is a Brazilian e-commerce platform that connects small businesses to major marketplaces. This dataset covers ~100k orders placed between 2016–2018 across multiple Brazilian states, including data on orders, payments, reviews, products, sellers, and customer geolocation.
 
-Attention
+## Dataset Notes
+- An order may have multiple items
+- All store and partner names have been anonymised and replaced with Game of Thrones house names
+- The dataset is a snapshot in time (2016–2018) and does not reflect Olist's current operations
 
-    An order might have multiple items.
-    Each item might be fulfilled by a distinct seller.
-    All text identifying stores and partners where replaced by the names of Game of Thrones great houses.
+## Limitations
+- Repeat purchase rates are low, which may affect the robustness of RFM and CLV models
