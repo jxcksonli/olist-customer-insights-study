@@ -6,7 +6,7 @@ A deep-dive into customer behaviour, segmentation, and retention patterns using 
 Olist is a Brazilian e-commerce platform that connects small businesses to major marketplaces. This dataset covers ~100k orders placed between 2016–2018 across multiple Brazilian states, including data on orders, payments, reviews, products, sellers, and customer geolocation.
 
 ## Tableau Dashboard 
-An interactive Tableau dashboard that accompanies this analysis can be found [here](LINK).
+An interactive Tableau dashboard that accompanies this analysis can be found [here](https://public.tableau.com/app/profile/jackson.li/viz/OlistCustomerInsights/MainDashboard).
 
 ## Summary of Findings
 - Order volume grew steadily through 2017, peaking around November before stabilising
